@@ -23,3 +23,7 @@ A personal repository for AI tools, workflows, prompts, and agents used in daily
 ## GitHub Actions
 
 This repository uses Claude Code for automated code review and issue handling via GitHub Actions. See [`.github/workflows/`](.github/workflows/) for the workflow definitions.
+
+---
+
+© 2026
